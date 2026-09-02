@@ -1,5 +1,5 @@
 # goget-wallpaper
-> A quick tool I put together to download images concurrently with some control over it.
+> Wallpaper
 ```bash
 go run main.go
 ```
